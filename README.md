@@ -39,3 +39,6 @@ log10^(4*9)=log10^4+log10^9=log10^2^2log10^3^2->2log10^2+2log10^3 -> 2*0.3+2*0.8
 
 log10^18     log10^(2*9)    log10^2+log10^9       log10^2        2log10^3      1      4        11
 log10^4   =  log10^4     =  log10^4               =   2log10^2  +  2log10^2    = 2  +  3   =  6
+
+![image](https://github.com/LeeMinGyu23/math1/assets/117800561/fb00f3f5-3fb4-4d28-8f27-49f2352fba57)
+
