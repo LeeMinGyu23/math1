@@ -42,3 +42,8 @@ log10^4   =  log10^4     =  log10^4               =   2log10^2  +  2log10^2    =
 
 ![image](https://github.com/LeeMinGyu23/math1/assets/117800561/fb00f3f5-3fb4-4d28-8f27-49f2352fba57)
 
+** 외우기 
+
+![image](https://github.com/LeeMinGyu23/math1/assets/117800561/b3fde462-e158-44df-8ac1-492133fcb5ee)
+
+
